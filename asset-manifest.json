@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/locations-table-app/static/js/main.a897d4ad.js",
+    "index.html": "/locations-table-app/index.html",
+    "main.a897d4ad.js.map": "/locations-table-app/static/js/main.a897d4ad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a897d4ad.js"
+  ]
+}
