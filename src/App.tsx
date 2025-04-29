@@ -1,14 +1,8 @@
 import React, { useState } from 'react';
 import { Grid, GridColumn as Column, GridItemChangeEvent } from '@progress/kendo-react-grid';
-//import products from './gd-products';
+
 import locations from './location';
-/*
-interface ProductCategory {
-    CategoryID?: number;
-    CategoryName?: any;
-    Description?: any;
-}
-*/
+
 interface  LocationCategory{
     Id: number;
     CategoryName?: any;
@@ -17,22 +11,7 @@ interface  LocationCategory{
     UpdatedByUserId?: any;
     UpdatedDate?: any;
 }
-/*
-interface Product {
-    ProductID: number;
-    ProductName?: any;
-    SupplierID?: number;
-    CategoryID?: number;
-    QuantityPerUnit?: any;
-    UnitPrice?: number;
-    UnitsInStock?: number;
-    UnitsOnOrder?: number;
-    ReorderLevel?: number;
-    Discontinued?: boolean;
-    Category?: ProductCategory;
-    inEdit?: boolean | any;
-}
-*/
+
 interface Location {
 	Id: number;
         LocationName?: any;
@@ -117,49 +96,12 @@ const App = () => {
             <Column field="Id" title="Id" editable={false} filterable={false} width="75px" className="bg-color-red"  />
             <Column field="LocationName" title="LocationName" editor="text" />
             <Column field="LocationShortName" title="LocationShortName" editable={false} width="200px"></Column>
-            <Column title="StreetAddress" editor="numeric" width="150px" >
-                {this.data.StreetAddress}
-                {data.City} {data.State} {data.Zip} 
-                {data.Field}
-            </Column>
+            <Column title="StreetAddress" editor="numeric" width="150px" />
             <Column field="LocationDescription" title="LocationDescription" editor="boolean" width="150px" />
             <Column field="LocationShort" title="LocationShort" editor="boolean" width="150px" />
         </Grid>
     );
 
-    /*
-    const [data, setData] = useState<Array<Product>>(products);
-
-    const handleItemChange = (event: GridItemChangeEvent) => {
-        const newData = data.map((item) =>
-            item.ProductID === event.dataItem.ProductID ? { ...item, [event.field!]: event.value } : item
-        );
-        setData(newData);
-    };
-
-    return (
-        <Grid
-            style={{ height: '475px' }}
-            data={data}
-            dataItemKey="ProductID"
-            autoProcessData={true}
-            sortable={true}
-            pageable={true}
-            filterable={true}
-            editable={{ mode: 'incell' }}
-            defaultSkip={0}
-            defaultTake={10}
-            onItemChange={handleItemChange}
-        >
-            <Column field="ProductID" title="ID" editable={false} filterable={false} width="75px" />
-            <Column field="ProductName" title="Name" editor="text" />
-            <Column field="Category.CategoryName" title="Category" editable={false} width="200px"></Column>
-            <Column field="UnitPrice" title="Price" editor="numeric" width="150px" />
-            <Column field="UnitsInStock" title="In stock" editor="numeric" width="150px" />
-            <Column field="Discontinued" title="Discontinued" editor="boolean" width="150px" />
-        </Grid>
-    );
-    */
 };
 
 export default App;
