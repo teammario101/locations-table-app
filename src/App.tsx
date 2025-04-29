@@ -114,14 +114,14 @@ const App = () => {
             defaultTake={10}
             onItemChange={handleItemChange}
         >
-            <Column field="Id" title="Id" editable={false} filterable={false} width="75px" />
+            <Column field="Id" title="Id" editable={false} filterable={false} width="75px" className="bg-color-red"  />
             <Column field="LocationName" title="LocationName" editor="text" />
             <Column field="LocationShortName" title="LocationShortName" editable={false} width="200px"></Column>
-            <Column field="StreetAddress" title="StreetAddress" editor="numeric" width="150px" />
-            <Column field="City" title="City" editor="numeric" width="150px" />
-            <Column field="State" title="State" editor="boolean" width="150px" />
-            <Column field="Zip" title="Zip" editor="boolean" width="150px" />
-            <Column field="Field" title="Field" editor="boolean" width="150px" />
+            <Column title="StreetAddress" editor="numeric" width="150px" >
+                {this.data.StreetAddress}
+                {data.City} {data.State} {data.Zip} 
+                {data.Field}
+            </Column>
             <Column field="LocationDescription" title="LocationDescription" editor="boolean" width="150px" />
             <Column field="LocationShort" title="LocationShort" editor="boolean" width="150px" />
         </Grid>

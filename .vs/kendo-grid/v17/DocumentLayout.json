@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,6 +53,10 @@
               "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "location.ts",
@@ -75,8 +79,7 @@
               "RelativeToolTip": "src\\gd-products.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4FAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-15T01:06:59.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T01:06:59.764Z"
             },
             {
               "$type": "Document",
@@ -88,8 +91,7 @@
               "RelativeToolTip": "src\\main.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-14T22:36:08.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T22:36:08.686Z"
             },
             {
               "$type": "Document",
@@ -101,8 +103,7 @@
               "RelativeToolTip": "src\\App.tsx",
               "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-14T17:15:55.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T17:15:55.597Z"
             }
           ]
         }
