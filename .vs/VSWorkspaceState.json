@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\build",
     "\\public",
     "\\src"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\build\\logo192.png",
   "PreviewInSolutionExplorer": false
 }
