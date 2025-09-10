@@ -92,6 +92,7 @@ const App = () => {
             defaultSkip={0}
             defaultTake={10}
             onItemChange={handleItemChange}
+            
         >
             <Column field="Id" title="Id" editable={false} filterable={false} width="75px" className="bg-color-red"  />
             <Column field="LocationName" title="LocationName" editor="text" />
@@ -100,6 +101,7 @@ const App = () => {
             <Column field="LocationDescription" title="LocationDescription" editor="boolean" width="150px" />
             <Column field="LocationShort" title="LocationShort" editor="boolean" width="150px" />
         </Grid>
+        
     );
 
 };

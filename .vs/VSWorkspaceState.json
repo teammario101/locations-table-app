@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\build",
+    "\\build\\static",
+    "\\build\\static\\js",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\FindTeamSchedule",
+    "\\src\\Components\\HelloWorld"
   ],
-  "SelectedNode": "\\public\\registration.json",
+  "SelectedNode": "\\tsconfig.json",
   "PreviewInSolutionExplorer": false
 }

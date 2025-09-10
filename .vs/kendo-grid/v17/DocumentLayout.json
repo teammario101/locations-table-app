@@ -3,36 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\registration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\registration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\HelloWorld.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\HelloWorld.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\static\\js\\main.1588d7c3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\static\\js\\main.1588d7c3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\HelloWorld.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\HelloWorld.html||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\locations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\locations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\gd-products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gd-products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\Components\\HelloWorld\\HelloWorld.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\HelloWorld\\HelloWorld.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\location.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\location.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\Components\\FindTeamSchedule\\FindTeamSchedule.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\FindTeamSchedule\\FindTeamSchedule.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\ScheduleTeeList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ScheduleTeeList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teamSchedule.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\teamSchedule.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teamschedule.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\teamschedule.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\division-interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\division-interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\divisionstandings.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings-interface.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\divisionstandings-interface.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\divisionstandings-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\division-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\division-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\shared-tl-interfaces.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shared-tl-interfaces.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\team-interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\team-interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\react-app-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\react-app-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\ScheduleListing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ScheduleListing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\shared-tl-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shared-tl-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\standings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\standings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teams.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\teams.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\standings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\standings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\seasons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\seasons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\divisions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\gd-products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gd-products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\team.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\team.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\divisions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\divisions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\registration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\registration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,72 +173,402 @@
               "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloWorld.html",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\HelloWorld.html",
+              "RelativeDocumentMoniker": "build\\HelloWorld.html",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\HelloWorld.html",
+              "RelativeToolTip": "build\\HelloWorld.html",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswH8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-10T15:00:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "location.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\location.ts",
+              "RelativeDocumentMoniker": "src\\location.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\location.ts",
+              "RelativeToolTip": "src\\location.ts",
+              "ViewState": "AgIAAIhVAAAAAAAAAAAmwKlVAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T14:51:14.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\HelloWorld.tsx",
+              "RelativeDocumentMoniker": "src\\HelloWorld.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\HelloWorld.tsx",
+              "RelativeToolTip": "src\\HelloWorld.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T14:51:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FindTeamSchedule.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\Components\\FindTeamSchedule\\FindTeamSchedule.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\FindTeamSchedule\\FindTeamSchedule.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\Components\\FindTeamSchedule\\FindTeamSchedule.tsx",
+              "RelativeToolTip": "src\\Components\\FindTeamSchedule\\FindTeamSchedule.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T14:45:39.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloWorld.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\Components\\HelloWorld\\HelloWorld.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\HelloWorld\\HelloWorld.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\Components\\HelloWorld\\HelloWorld.tsx",
+              "RelativeToolTip": "src\\Components\\HelloWorld\\HelloWorld.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-10T14:45:17.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.1588d7c3.js",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\static\\js\\main.1588d7c3.js",
+              "RelativeDocumentMoniker": "build\\static\\js\\main.1588d7c3.js",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\static\\js\\main.1588d7c3.js",
+              "RelativeToolTip": "build\\static\\js\\main.1588d7c3.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-10T14:28:30.343Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "registration.json",
-              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\registration.json",
-              "RelativeDocumentMoniker": "public\\registration.json",
-              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\registration.json",
-              "RelativeToolTip": "public\\registration.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T14:17:29.489Z",
+              "WhenOpened": "2025-09-10T14:26:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "divisionstandings.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings.tsx",
+              "RelativeDocumentMoniker": "src\\divisionstandings.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings.tsx",
+              "RelativeToolTip": "src\\divisionstandings.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-14T20:13:29.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScheduleTeeList.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\ScheduleTeeList.tsx",
+              "RelativeDocumentMoniker": "src\\ScheduleTeeList.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\ScheduleTeeList.tsx",
+              "RelativeToolTip": "src\\ScheduleTeeList.tsx",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-14T17:33:55.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "divisionstandings-interface.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings-interface.ts",
+              "RelativeDocumentMoniker": "src\\divisionstandings-interface.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings-interface.ts",
+              "RelativeToolTip": "src\\divisionstandings-interface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-14T19:51:31.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T22:36:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "teamschedule.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teamschedule.json",
+              "RelativeDocumentMoniker": "src\\teamschedule.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teamschedule.json",
+              "RelativeToolTip": "src\\teamschedule.json",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:32:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\index.html",
               "RelativeDocumentMoniker": "build\\index.html",
               "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\build\\index.html",
               "RelativeToolTip": "build\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGCAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswIAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-09T20:53:04.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "locations.json",
-              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\locations.json",
-              "RelativeDocumentMoniker": "public\\locations.json",
-              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\locations.json",
-              "RelativeToolTip": "public\\locations.json",
-              "ViewState": "AgIAAOgCAAAAAAAAAAAAAPYCAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T15:23:02.949Z",
+              "DocumentIndex": 17,
+              "Title": "divisionstandings-data.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings-data.ts",
+              "RelativeDocumentMoniker": "src\\divisionstandings-data.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisionstandings-data.ts",
+              "RelativeToolTip": "src\\divisionstandings-data.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-14T20:15:34.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "teamSchedule.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teamSchedule.tsx",
+              "RelativeDocumentMoniker": "src\\teamSchedule.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teamSchedule.tsx",
+              "RelativeToolTip": "src\\teamSchedule.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-15T15:45:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "react-app-env.d.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\react-app-env.d.ts",
+              "RelativeDocumentMoniker": "src\\react-app-env.d.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\react-app-env.d.ts",
+              "RelativeToolTip": "src\\react-app-env.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-15T17:55:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T17:15:55.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "division-data.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\division-data.ts",
+              "RelativeDocumentMoniker": "src\\division-data.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\division-data.ts",
+              "RelativeToolTip": "src\\division-data.ts",
+              "ViewState": "AgIAAMAIAAAAAAAAAAAhwNUIAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-16T14:49:10.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduleListing.tsx",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\ScheduleListing.tsx",
+              "RelativeDocumentMoniker": "src\\ScheduleListing.tsx",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\ScheduleListing.tsx",
+              "RelativeToolTip": "src\\ScheduleListing.tsx",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-13T15:49:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "team-interface.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\team-interface.ts",
+              "RelativeDocumentMoniker": "src\\team-interface.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\team-interface.ts",
+              "RelativeToolTip": "src\\team-interface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-14T03:47:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
               "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\index.html",
               "RelativeToolTip": "public\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-09T14:59:27.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "location.ts",
-              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\location.ts",
-              "RelativeDocumentMoniker": "src\\location.ts",
-              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\location.ts",
-              "RelativeToolTip": "src\\location.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "division-interface.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\division-interface.ts",
+              "RelativeDocumentMoniker": "src\\division-interface.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\division-interface.ts",
+              "RelativeToolTip": "src\\division-interface.ts",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-15T01:15:50.523Z"
+              "WhenOpened": "2025-05-16T14:49:14.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
+              "Title": "shared-tl-interfaces.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\shared-tl-interfaces.ts",
+              "RelativeDocumentMoniker": "src\\shared-tl-interfaces.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\shared-tl-interfaces.ts",
+              "RelativeToolTip": "src\\shared-tl-interfaces.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-16T15:13:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "shared-tl-data.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\shared-tl-data.ts",
+              "RelativeDocumentMoniker": "src\\shared-tl-data.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\shared-tl-data.ts",
+              "RelativeToolTip": "src\\shared-tl-data.ts",
+              "ViewState": "AgIAAG0EAAAAAAAAAAAAAH4EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-13T20:03:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "standings.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\standings.json",
+              "RelativeDocumentMoniker": "src\\standings.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\standings.json",
+              "RelativeToolTip": "src\\standings.json",
+              "ViewState": "AgIAAE8CAAAAAAAAAAAswHkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T19:42:06.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "teams.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teams.json",
+              "RelativeDocumentMoniker": "src\\teams.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\teams.json",
+              "RelativeToolTip": "src\\teams.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:38:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "standings.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\standings.json",
+              "RelativeDocumentMoniker": "public\\standings.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\standings.json",
+              "RelativeToolTip": "public\\standings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:41:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "seasons.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\seasons.json",
+              "RelativeDocumentMoniker": "src\\seasons.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\seasons.json",
+              "RelativeToolTip": "src\\seasons.json",
+              "ViewState": "AgIAAGMgAAAAAAAAAAAswHYgAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T02:13:12.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "divisions.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisions.json",
+              "RelativeDocumentMoniker": "src\\divisions.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\divisions.json",
+              "RelativeToolTip": "src\\divisions.json",
+              "ViewState": "AgIAAG0iAAAAAAAAAACEPYoiAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:32:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "team.ts",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\team.ts",
+              "RelativeDocumentMoniker": "src\\team.ts",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\team.ts",
+              "RelativeToolTip": "src\\team.ts",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwIoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-14T03:45:07.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "gd-products.ts",
               "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\gd-products.ts",
               "RelativeDocumentMoniker": "src\\gd-products.ts",
@@ -147,27 +581,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.tsx",
-              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\main.tsx",
-              "RelativeDocumentMoniker": "src\\main.tsx",
-              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\main.tsx",
-              "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-14T22:36:08.686Z"
+              "DocumentIndex": 33,
+              "Title": "registration.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\registration.json",
+              "RelativeDocumentMoniker": "public\\registration.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\registration.json",
+              "RelativeToolTip": "public\\registration.json",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T03:06:47.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.tsx",
-              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\App.tsx",
-              "RelativeDocumentMoniker": "src\\App.tsx",
-              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\src\\App.tsx",
-              "RelativeToolTip": "src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-14T17:15:55.597Z",
+              "DocumentIndex": 31,
+              "Title": "divisions.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\divisions.json",
+              "RelativeDocumentMoniker": "public\\divisions.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\divisions.json",
+              "RelativeToolTip": "public\\divisions.json",
+              "ViewState": "AgIAAEUNAAAAAAAAAICEPUUNAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T15:29:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\manifest.json",
+              "RelativeDocumentMoniker": "public\\manifest.json",
+              "ToolTip": "C:\\Users\\Mario\\Projects\\Kendo\\Grid\\kendo-grid\\public\\manifest.json",
+              "RelativeToolTip": "public\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T14:13:06.89Z",
               "EditorCaption": ""
             }
           ]
