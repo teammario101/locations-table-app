@@ -1,15 +1,3 @@
-(function() {
-  "use strict";
-  try {
-    if (typeof document != "undefined") {
-      var elementStyle = document.createElement("style");
-      elementStyle.appendChild(document.createTextNode("#root {\n  max-width: 1280px;\n  margin: 0 auto;\n  padding: 2rem;\n  text-align: center;\n}\n\n.logo {\n  height: 6em;\n  padding: 1.5em;\n  will-change: filter;\n  transition: filter 300ms;\n}\n.logo:hover {\n  filter: drop-shadow(0 0 2em #646cffaa);\n}\n.logo.react:hover {\n  filter: drop-shadow(0 0 2em #61dafbaa);\n}\n\n@keyframes logo-spin {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n@media (prefers-reduced-motion: no-preference) {\n  a:nth-of-type(2) .logo {\n    animation: logo-spin infinite 20s linear;\n  }\n}\n\n.card {\n  padding: 2em;\n}\n\n.read-the-docs {\n  color: #888;\n}"));
-      document.head.appendChild(elementStyle);
-    }
-  } catch (e) {
-    console.error("vite-plugin-css-injected-by-js", e);
-  }
-})();
 (function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) return;
@@ -12079,33 +12067,6 @@ function requireClient() {
   return client.exports;
 }
 var clientExports = requireClient();
-const reactLogo = "/assets/react-CHdo91hT.svg";
-const viteLogo = "/vite.svg";
-function App() {
-  const [count, setCount] = reactExports.useState(0);
-  return /* @__PURE__ */ jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { children: [
-    /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
-      /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "https://vite.dev", target: "_blank", children: /* @__PURE__ */ jsxRuntimeExports.jsx("img", { src: viteLogo, className: "logo", alt: "Vite logo" }) }),
-      /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "https://react.dev", target: "_blank", children: /* @__PURE__ */ jsxRuntimeExports.jsx("img", { src: reactLogo, className: "logo react", alt: "React logo" }) })
-    ] }),
-    /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { children: "Vite + React" }),
-    /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "card", children: [
-      /* @__PURE__ */ jsxRuntimeExports.jsxs("button", { onClick: () => setCount((count2) => count2 + 1), children: [
-        "count is ",
-        count
-      ] }),
-      /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { children: [
-        "Edit ",
-        /* @__PURE__ */ jsxRuntimeExports.jsx("code", { children: "src/App.tsx" }),
-        " and save to test HMR"
-      ] })
-    ] }),
-    /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "read-the-docs", children: "Click on the Vite and React logos to learn more" })
-  ] });
-}
-clientExports.createRoot(document.getElementById("root")).render(
-  /* @__PURE__ */ jsxRuntimeExports.jsx(reactExports.StrictMode, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(App, {}) })
-);
 function HelloWorld() {
   return /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "flex items-center justify-center min-h-screen bg-blue-50", children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "text-center", children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "text-4xl font-bold text-blue-600 mb-4", children: "Hello, World!" }),
