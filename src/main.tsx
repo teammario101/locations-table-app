@@ -11,12 +11,14 @@ import FindTeamSchedule from './Components/FindTeamSchedule/FindTeamSchedule';
 const root = createRoot(document.querySelector('my-app')!);
 root.render(
     <React.StrictMode>
-
-        <ScheduleTreeList />
-
+        <h1>HW</h1>
         <HellowWorld />
+        <h1>FTS</h1>
         <FindTeamSchedule />
-
+        <h1>TDS</h1>
+        <TeamDivStandings />
+        <h1>STL</h1>
+        <ScheduleTreeList />
     </React.StrictMode>
 );
 
