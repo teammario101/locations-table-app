@@ -13,32 +13,12 @@
 
     <h1>FTSG</h1>
       <div id="FindTeamScheduleGrid"></div>
+<h3>tag</h3>
+      <FindTeamScheduleGrid></FindTeamScheduleGrid>
 
 <h1>LC</h1>
 
 <div id="LocationCalendar"></div>
-    <script>
-        // Wait for DOM to be ready
-        document.addEventListener('DOMContentLoaded', function() {
-            const container = document.getElementById('locationcalendar');
-            
-            // Check if the init function exists
-            if (typeof LocationCalendarInit !== 'undefined') {
-                // Call the init function with the container element
-                LocationCalendarInit.init(container);
-            } else {
-                console.error('LocationCalendar init function not found');
-            }
-        });
-
-        // Optional: Cleanup when page unloads
-        window.addEventListener('beforeunload', function() {
-            const container = document.getElementById('locationcalendar');
-            if (typeof LocationCalendarInit !== 'undefined' && LocationCalendarInit.clean) {
-                LocationCalendarInit.clean(container);
-            }
-        });
-    </script>
 
 
   </body>
