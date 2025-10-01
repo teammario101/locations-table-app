@@ -6,17 +6,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React + TS</title>
   
-    <script type="module" crossorigin src="/assets/main-B3th8wI5.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/main-h5-GwwvV.css">
+    <script type="module" crossorigin src="/main.js"></script>
+    <link rel="stylesheet" crossorigin href="/main.css">
   </head>
   <body>
 
     <h1>FTSG</h1>
-      <div id="FindTeamScheduleGrid"></div>
+      <div id="FindTeamScheduleGrid"></div>
 
 <h1>LC</h1>
-      <div id="LocationCalendar"></div>
 
+<div id="LocationCalendar"></div>
+    <script>
+        // Wait for DOM to be ready
+        document.addEventListener('DOMContentLoaded', function() {
+            const container = document.getElementById('locationcalendar');
+            
+            // Check if the init function exists
+            if (typeof LocationCalendarInit !== 'undefined') {
+                // Call the init function with the container element
+                LocationCalendarInit.init(container);
+            } else {
+                console.error('LocationCalendar init function not found');
+            }
+        });
+
+        // Optional: Cleanup when page unloads
+        window.addEventListener('beforeunload', function() {
+            const container = document.getElementById('locationcalendar');
+            if (typeof LocationCalendarInit !== 'undefined' && LocationCalendarInit.clean) {
+                LocationCalendarInit.clean(container);
+            }
+        });
+    </script>
 
 
   </body>
